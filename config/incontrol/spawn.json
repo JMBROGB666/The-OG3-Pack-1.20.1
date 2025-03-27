@@ -1,1 +1,245 @@
-[]
+[
+{
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:creeper",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:skeleton",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:glow_squid",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:axolotl",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:turtle",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:bee",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:drowned",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:cod",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:salmon",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:bat",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:rabbit",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:villager",
+    "mincount": 25,
+    "result": "deny"
+  },
+  
+  
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:lobster",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:seagull",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:crow",
+    "mincount": 3,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:gelada_monkey",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:bison",
+    "mincount": 15,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:raccoon",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:blue_jay",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:anaconda_part",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:anaconda",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:cockroach",
+    "mincount": 3,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:seal",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:grizzly_bear",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "alexsmobs:orca",
+    "mincount": 2,
+    "result": "deny"
+  },
+  
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "eidolon:raven",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "eidolon:slimy_slug",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "eidolon:wraith",
+    "mincount": 8,
+    "result": "deny"
+  },
+  
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "hexerei:crow",
+    "mincount": 5,
+    "result": "deny"
+  },
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "whisperwoods:moth",
+    "mincount": 3,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "whisperwoods:wisp",
+    "mincount": 4,
+    "result": "deny"
+  },
+  
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "guardvillagers:guard",
+    "mincount": 12,
+    "result": "deny"
+  },
+  
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "quark:toretoise",
+    "mincount": 4,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "quark:crab",
+    "mincount": 3,
+    "result": "deny"
+  },
+  
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "friendsandfoes:glare",
+    "mincount": 5,
+    "result": "deny"
+  }
+  
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mekanismadditions:baby_skeleton",
+    "mincount": 3,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mekanismadditions:baby_creeper",
+    "mincount": 3,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mekanismadditions:baby_zombie",
+    "mincount": 3,
+    "result": "deny"
+  }
+]
