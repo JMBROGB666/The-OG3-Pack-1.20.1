@@ -222,7 +222,7 @@
     "mob": "friendsandfoes:glare",
     "mincount": 5,
     "result": "deny"
-  }
+  },
   
   {
     "dimension": "minecraft:overworld",
