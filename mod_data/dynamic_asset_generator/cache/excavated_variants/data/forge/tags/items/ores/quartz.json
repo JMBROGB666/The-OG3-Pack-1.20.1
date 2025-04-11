@@ -1,0 +1,10 @@
+{
+  "replace":false,
+  "values":[    "excavated_variants:blackstone_quartz_ore",
+    "excavated_variants:mysticalagriculture_soulstone_quartz_ore",
+    "excavated_variants:twigs_bloodstone_quartz_ore",
+    "excavated_variants:smooth_basalt_quartz_ore",
+    "excavated_variants:basalt_quartz_ore",
+    "excavated_variants:create_scoria_quartz_ore",
+    "excavated_variants:create_scorchia_quartz_ore"
+]}
