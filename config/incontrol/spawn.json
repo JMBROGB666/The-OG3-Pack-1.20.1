@@ -222,7 +222,7 @@
     "mob": "friendsandfoes:glare",
     "mincount": 5,
     "result": "deny"
-  }
+  },
   
   {
     "dimension": "minecraft:overworld",
@@ -233,12 +233,6 @@
   {
     "dimension": "minecraft:overworld",
     "mob": "mekanismadditions:baby_creeper",
-    "mincount": 3,
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "mekanismadditions:baby_zombie",
     "mincount": 3,
     "result": "deny"
   }
