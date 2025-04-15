@@ -16,7 +16,11 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "ironfurnaces:million_furnace",
+	  "ironfurnaces:rainbow_coal",
+	  "ironfurnaces:rainbow_Linker",
+	  "ironfurnaces:rainbow_core",
+	  "ironfurnaces:rainbow_plating"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
