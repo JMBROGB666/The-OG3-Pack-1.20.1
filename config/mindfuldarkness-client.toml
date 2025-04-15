@@ -14,7 +14,7 @@ paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!minecraft:text
 "quark:textures/misc/backpack_gui.png", "quark:textures/misc/matrix_enchanting.png", "quark:textures/misc/shulker_widget.png", "!mekanism:*", "!mekanismgenerators:gui/*", 
 "!minecraft:textures/gui/world_selection.png", "!minecraft:textures/gui/resource_packs.png", "!minecraft:textures/gui/server_selection.png", 
 "!minecraft:textures/gui/checkbox.png", "!minecraft:textures/gui/widgets.png", "!minecraft:textures/gui/advancements/*", "!minecraft:textures/gui/toasts.png", 
-"!minecraft:textures/gui/bars.png", "!trashcans:*"]
+"!minecraft:textures/gui/bars.png", "!minecraft:textures/gui/accessibility.png", "!trashcans:*"]
 #Do not add the dark mode toggle buttons to the top of every menu.
 hide_in_game_switcher = false
 #Screens to add a dark mode toggle button to, so that toggling is possible outside of inventory menus.
