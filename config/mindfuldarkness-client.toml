@@ -3,12 +3,18 @@ debug_container_types = false
 #Print screen identifier to game chat or log file whenever a new screen is opened. Intended for finding screens to be added to "font_color_blacklist".
 debug_all_screens = false
 #Exclude certain menus from showing the dark mode switcher. Useful when the box intersects other screen elements.
-menu_blacklist = []
+menu_blacklist = ["hexerei:*", "corpse:*", "ad_astra:*", "mekanism:*", "mekanismgenerators:*", "tconstruct:*", "immersiveengineering:*", "trashcans:*"]
 #Specifies gui paths and resources to darken.
 #End a path using '*' as a wildcard char to include every file (no nested directories) from that directory.
 #Begin with a namespace or skip namespace to apply to all namespaces.
 #Begin with '!' to exclude matches, list those exclusions after entries that would otherwise include them.
-paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!minecraft:textures/gui/options_background.png", "!minecraft:textures/gui/book.png", "textures/gui/container/*", "minecraft:textures/gui/container/creative_inventory/*", "trinkets:textures/gui/slots/*", "craftingtweaks:gui.png", "dankstorage:textures/container/gui/*", "ae2:textures/guis/*", "!modmenu:textures/gui/mod_configuration.png", "!dynamiccrosshair:textures/gui/crosshairs.png", "quark:textures/misc/backpack_gui.png", "quark:textures/misc/matrix_enchanting.png", "quark:textures/misc/shulker_widget.png"]
+paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!minecraft:textures/gui/options_background.png", "!minecraft:textures/gui/book.png", 
+"textures/gui/container/*", "minecraft:textures/gui/container/creative_inventory/*", "trinkets:textures/gui/slots/*", "craftingtweaks:gui.png", 
+"dankstorage:textures/container/gui/*", "ae2:textures/guis/*", "!modmenu:textures/gui/mod_configuration.png", "!dynamiccrosshair:textures/gui/crosshairs.png", 
+"quark:textures/misc/backpack_gui.png", "quark:textures/misc/matrix_enchanting.png", "quark:textures/misc/shulker_widget.png", "!mekanism:*", "!mekanismgenerators:gui/*", 
+"!minecraft:textures/gui/world_selection.png", "!minecraft:textures/gui/resource_packs.png", "!minecraft:textures/gui/server_selection.png", 
+"!minecraft:textures/gui/checkbox.png", "!minecraft:textures/gui/widgets.png", "!minecraft:textures/gui/advancements/*", "!minecraft:textures/gui/toasts.png", 
+"!minecraft:textures/gui/bars.png", "!trashcans:*"]
 #Do not add the dark mode toggle buttons to the top of every menu.
 hide_in_game_switcher = false
 #Screens to add a dark mode toggle button to, so that toggling is possible outside of inventory menus.
