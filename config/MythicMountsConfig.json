@@ -42,7 +42,7 @@
     },
     "spawnCategories": {
         "CourierBirdSpawnSettings": {
-            "shouldSpawn": true,
+            "shouldSpawn": false,
             "spawnDebug": false,
             "spawnRandomChance": 100,
             "chunkFreq": 0,
@@ -52,13 +52,13 @@
         "DireWolfSpawnSettings": {
             "shouldSpawn": true,
             "spawnDebug": false,
-            "spawnRandomChance": 100,
+            "spawnRandomChance": 50,
             "chunkFreq": 0,
             "chunkOffset": 0,
             "spawnType": "overworld"
         },
         "DragonSpawnSettings": {
-            "shouldSpawn": true,
+            "shouldSpawn": false,
             "spawnDebug": false,
             "spawnRandomChance": 100,
             "chunkFreq": 0,
@@ -88,7 +88,7 @@
             "maxIn256Region": 2
         },
         "MothSpawnSettings": {
-            "shouldSpawn": true,
+            "shouldSpawn": false,
             "spawnDebug": false,
             "spawnRandomChance": 70,
             "chunkFreq": 0,
@@ -96,7 +96,7 @@
             "spawnType": "overworld"
         },
         "ColelytraSpawnSettings": {
-            "shouldSpawn": true,
+            "shouldSpawn": false,
             "spawnDebug": false,
             "spawnRandomChance": 100,
             "chunkFreq": 0,
@@ -113,7 +113,7 @@
             "maxIn256Region": 6
         },
         "NudibranchSpawnSettings": {
-            "shouldSpawn": true,
+            "shouldSpawn": false,
             "spawnDebug": false,
             "spawnRandomChance": 100,
             "chunkFreq": 0,
