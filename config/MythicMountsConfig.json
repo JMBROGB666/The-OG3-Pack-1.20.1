@@ -47,7 +47,7 @@
             "spawnRandomChance": 0,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": "overworld"
+            "spawnType": ""
         },
         "DireWolfSpawnSettings": {
             "shouldSpawn": true,
@@ -63,8 +63,8 @@
             "spawnRandomChance": 0,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": "subterranean",
-            "maxIn256Region": 1
+            "spawnType": "",
+            "maxIn256Region": 0
         },
         "GriffonSpawnSettings": {
             "shouldSpawn": true,
@@ -93,7 +93,7 @@
             "spawnRandomChance": 0,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": "overworld"
+            "spawnType": ""
         },
         "ColelytraSpawnSettings": {
             "shouldSpawn": false,
@@ -101,7 +101,7 @@
             "spawnRandomChance": 0,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": "overworld"
+            "spawnType": ""
         },
         "NetherBatSpawnSettings": {
             "shouldSpawn": true,
@@ -110,7 +110,7 @@
             "chunkFreq": 1,
             "chunkOffset": 0,
             "spawnType": "nether",
-            "maxIn256Region": 6
+            "maxIn256Region": 4
         },
         "NudibranchSpawnSettings": {
             "shouldSpawn": false,
@@ -118,7 +118,7 @@
             "spawnRandomChance": 0,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": "water"
+            "spawnType": ""
         },
         "RidingLizardSpawnSettings": {
             "shouldSpawn": true,
