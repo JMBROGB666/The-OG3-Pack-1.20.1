@@ -11,9 +11,9 @@
         "disableUiOverlay": false,
         "mobCap": 16,
         "mobCapRange": 192,
-        "speedRange": .9,
+        "speedRange": 0.9,
         "healthRange": 10,
-        "jumpRange": .6
+        "jumpRange": 0.6
     },
     "itemGroups": {
         "flowerItems": ["sugar", "dandelion", "poppy", "blue_orchid", "allium", "azure_bluet", "red_tulip", "orange_tulip", "white_tulip", "pink_tulip", "oxeye_daisy", "cornflower", "lily_of_the_valley", "lilac", "rose_bush", "peony", "flowering_azalea_leaves"],
@@ -44,15 +44,15 @@
         "CourierBirdSpawnSettings": {
             "shouldSpawn": false,
             "spawnDebug": false,
-            "spawnRandomChance": 0,
+            "spawnRandomChance": 100,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": ""
+            "spawnType": "overworld"
         },
         "DireWolfSpawnSettings": {
             "shouldSpawn": true,
             "spawnDebug": false,
-            "spawnRandomChance": 30,
+            "spawnRandomChance": 100,
             "chunkFreq": 0,
             "chunkOffset": 0,
             "spawnType": "overworld"
@@ -60,18 +60,18 @@
         "DragonSpawnSettings": {
             "shouldSpawn": false,
             "spawnDebug": false,
-            "spawnRandomChance": 0,
+            "spawnRandomChance": 100,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": "",
-            "maxIn256Region": 0
+            "spawnType": "subterranean",
+            "maxIn256Region": 1
         },
         "GriffonSpawnSettings": {
             "shouldSpawn": true,
             "spawnDebug": false,
             "spawnYCeiling": 50000,
             "spawnYFloor": 100,
-            "spawnRandomChance": 50,
+            "spawnRandomChance": 70,
             "chunkFreq": 0,
             "chunkOffset": 0,
             "spawnType": "overworld"
@@ -81,7 +81,7 @@
             "spawnDebug": false,
             "spawnYCeiling": 50000,
             "spawnYFloor": 60,
-            "spawnRandomChance": 70,
+            "spawnRandomChance": 100,
             "chunkFreq": 3,
             "chunkOffset": 1,
             "spawnType": "subterranean",
@@ -90,35 +90,35 @@
         "MothSpawnSettings": {
             "shouldSpawn": false,
             "spawnDebug": false,
-            "spawnRandomChance": 0,
+            "spawnRandomChance": 70,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": ""
+            "spawnType": "overworld"
         },
         "ColelytraSpawnSettings": {
             "shouldSpawn": false,
             "spawnDebug": false,
-            "spawnRandomChance": 0,
+            "spawnRandomChance": 100,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": ""
+            "spawnType": "overworld"
         },
         "NetherBatSpawnSettings": {
             "shouldSpawn": true,
             "spawnDebug": false,
-            "spawnRandomChance": 70,
+            "spawnRandomChance": 100,
             "chunkFreq": 1,
             "chunkOffset": 0,
             "spawnType": "nether",
-            "maxIn256Region": 4
+            "maxIn256Region": 6
         },
         "NudibranchSpawnSettings": {
             "shouldSpawn": false,
             "spawnDebug": false,
-            "spawnRandomChance": 0,
+            "spawnRandomChance": 100,
             "chunkFreq": 0,
             "chunkOffset": 0,
-            "spawnType": ""
+            "spawnType": "water"
         },
         "RidingLizardSpawnSettings": {
             "shouldSpawn": true,
@@ -132,7 +132,7 @@
         "NightmareSpawnSettings": {
             "shouldSpawn": true,
             "spawnDebug": false,
-            "spawnRandomChance": 70,
+            "spawnRandomChance": 100,
             "chunkFreq": 1,
             "chunkOffset": 0,
             "spawnType": "nether",
@@ -141,7 +141,7 @@
         "AcenciaSpawnSettings": {
             "shouldSpawn": true,
             "spawnDebug": false,
-            "spawnRandomChance": 70,
+            "spawnRandomChance": 100,
             "chunkFreq": 0,
             "chunkOffset": 0,
             "spawnType": "overworld"
@@ -149,7 +149,7 @@
         "ArchelonSpawnSettings": {
             "shouldSpawn": true,
             "spawnDebug": false,
-            "spawnRandomChance": 70,
+            "spawnRandomChance": 100,
             "chunkFreq": 0,
             "chunkOffset": 0,
             "spawnType": "water",
@@ -158,7 +158,7 @@
        "FirebirdSpawnSettings": {
             "shouldSpawn": true,
             "spawnDebug": false,
-            "spawnRandomChance": 70,
+            "spawnRandomChance": 100,
             "spawnYCeiling": 50000,
             "spawnYFloor": 60,
             "chunkFreq": 0,
