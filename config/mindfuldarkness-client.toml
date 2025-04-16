@@ -16,7 +16,8 @@ paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!minecraft:text
 "!minecraft:textures/gui/world_selection.png", "!minecraft:textures/gui/resource_packs.png", "!minecraft:textures/gui/server_selection.png", 
 "!minecraft:textures/gui/checkbox.png", "!minecraft:textures/gui/widgets.png", "!minecraft:textures/gui/advancements/*", "!minecraft:textures/gui/toasts.png", 
 "!minecraft:textures/gui/bars.png", "!minecraft:textures/gui/accessibility.png", "!trashcans:*", "!electrodynamics:*", "!nuclearscience:*", "!ballistix:*", 
-"!modularforcefields:*", "!rftoolsbuilder:*", "!rftoolsbase:*", "!rftoolscontrol:*", "!rftoolspower:*", "!rftoolsstorage:*", "!rftoolsutility:*"]
+"!modularforcefields:*", "!rftoolsbuilder:textures/*", "!rftoolsbase:textures/*", "!rftoolscontrol:textures/*", "!rftoolspower:textures/*", "!rftoolsstorage:textures/*", 
+"!rftoolsutility:textures/*"]
 #Do not add the dark mode toggle buttons to the top of every menu.
 hide_in_game_switcher = false
 #Screens to add a dark mode toggle button to, so that toggling is possible outside of inventory menus.
