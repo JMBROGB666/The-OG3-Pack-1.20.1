@@ -1,7 +1,7 @@
 {
   "modpackMode": false,
   "fullScreen": "WINDOWED",
-  "fpsDisplayMode": "ADVANCED",
+  "fpsDisplayMode": "OFF",
   "fpsDisplayGravity": "LEFT",
   "fpsDisplaySystemMode": "OFF",
   "fpsDisplayMargin": 12,
@@ -11,7 +11,7 @@
   "cloudsHeight": 192,
   "disableNameTagRender": false,
   "chunkFadeSpeed": "SLOW",
-  "darknessMode": "OFF",
+  "darknessMode": "DARK",
   "darknessOnOverworld": true,
   "darknessOnNether": false,
   "darknessNetherFogBright": 0.5,
@@ -48,7 +48,7 @@
   "tileEntityWhitelist": [
     "waterframes:all"
   ],
-  "borderlessAttachModeF11": "ATTACH",
+  "borderlessAttachModeF11": "REPLACE",
   "fastLanguageReload": true,
   "enableZoom": true,
   "maxZoom": 50.0,
