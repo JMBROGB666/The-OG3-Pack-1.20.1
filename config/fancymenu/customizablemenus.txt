@@ -1,0 +1,71 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
+net.minecraftforge.client.gui.ModListScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.AccessibilityOptionsScreen {
+}
+
+net.createmod.catnip.config.ui.BaseConfigScreen {
+}
+
+net.minecraft.client.gui.screens.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.controls.ControlsScreen {
+}
+
+com.blamejared.controlling.client.NewKeyBindsScreen {
+}
+
+net.minecraft.client.gui.screens.MouseSettingsScreen {
+}
+
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+net.minecraft.client.gui.screens.LanguageSelectScreen {
+}
+
+net.minecraft.client.gui.screens.SkinCustomizationScreen {
+}
+
+com.teamabnormals.blueprint.client.screen.SlabfishHatScreen {
+}
+
+net.minecraft.client.gui.screens.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.OnlineOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.EditWorldScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screens.EditServerScreen {
+}
+
+net.minecraft.client.gui.screens.DirectJoinServerScreen {
+}
+
+com.memorysettings.MemoryErrorScreen {
+}
+
