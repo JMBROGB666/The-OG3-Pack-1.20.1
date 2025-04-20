@@ -175,12 +175,6 @@
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": "alexsmobs:",
-    "mincount": 8,
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
     "mob": "alexsmobs:banana_slug",
     "mincount": 3,
     "result": "deny"
@@ -210,7 +204,7 @@
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": "alexsmobs:cahalot_whale",
+    "mob": "alexsmobs:cachalot_whale",
     "mincount": 2,
     "result": "deny"
   },
@@ -472,12 +466,7 @@
     "mincount": 8,
     "result": "deny"
   },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "eidolon:slug",
-    "mincount": 3,
-    "result": "deny"
-  },
+  
   
   
 
@@ -506,14 +495,8 @@
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": "whisperwoods:Ghost_Lights",
-    "mincount": 4,
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "whisperwoods:Zotzpyre",
-    "mincount": 8,
+    "mob": "whisperwoods:zotzpyre",
+    "mincount": 10,
     "result": "deny"
   },
 
@@ -572,6 +555,84 @@
     "dimension": "minecraft:overworld",
     "mob": "thermal:blitz",
     "mincount": 10,
+    "result": "deny"
+  },
+
+
+
+
+  {
+    "mob": "mythicmounts:dragon",
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:acencia",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "mythicmounts:courierbird",
+    "result": "deny"
+  },
+  {
+    "mob": "mythicmounts:moth",
+    "result": "deny"
+  },
+  {
+    "mob": "mythicmounts:nudibranch",
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:ridinglizard",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:netherbat",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:direwolf",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:firebird",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:griffon",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:geckotoalizard",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "mob": "mythicmounts:colelytra",
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:nightmare",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:archelon",
+    "mincount": 8,
     "result": "deny"
   }
 ]
