@@ -2,21 +2,21 @@
 [Timers]
 	#Modify the timers for the surface (to reduce or increase them), based on the general timer set (e.g. spawn timer of 300 seconds -> 0.3 turns it into 90 seconds and 1.7 turns it into 510 seconds for the surface)
 	#Range: 0.0 ~ 5.0
-	surface_timer_multiplier = 1.0
+	surface_timer_multiplier = 0.5
 
 	[Timers.Spawn]
 		#Minimum time between spawns in seconds
 		#Range: 0 ~ 86400
-		can_spawn_min = 800
+		can_spawn_min = 1800
 		#Maximum time between spawns in seconds
 		#Range: 0 ~ 86400
-		can_spawn_max = 1200
+		can_spawn_max = 2200
 		#Chance for a spawn cooldown to occur
 		#Range: 0.0 ~ 1.0
 		can_spawn_cooldown_chance = 0.3
 		#Spawn cooldown length in seconds
 		#Range: 0 ~ 86400
-		can_spawn_cooldown = 1400
+		can_spawn_cooldown = 5400
 
 	[Timers.Noise]
 		#Minimum time between noise occurrences in seconds
@@ -44,10 +44,10 @@
 	allow_surface_spawn = true
 	#The maximum sky light level the Pale Hound can spawn at
 	#Range: 0 ~ 15
-	sky_light_level = 8
+	sky_light_level = 5
 	#The maximum block light level the Pale Hound can spawn at
 	#Range: 0 ~ 15
-	block_light_level = 15
+	block_light_level = 2
 	#The maximum amount of pale hounds which can exist at the same time
 	#Range: 0 ~ 100
 	maximum_amount = 3
