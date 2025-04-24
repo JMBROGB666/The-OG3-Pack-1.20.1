@@ -8,13 +8,19 @@
   {
     "dimension": "minecraft:overworld",
     "mob": "minecraft:skeleton",
+    "mincount": 30,
+    "result": "deny"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:zombie",
     "mincount": 50,
     "result": "deny"
   },
   {
     "dimension": "minecraft:overworld",
     "mob": "minecraft:glow_squid",
-    "mincount": 10,
+    "mincount": 5,
     "result": "deny"
   },
   {
