@@ -80,7 +80,7 @@
    {
     "dimension": "minecraft:overworld",
     "mob": "minecraft:phantom",
-    "mincount": 10,
+    "mincount": 2,
     "result": "deny"
   },
 
