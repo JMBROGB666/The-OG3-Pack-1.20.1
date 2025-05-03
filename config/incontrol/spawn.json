@@ -74,13 +74,12 @@
   {
     "dimension": "minecraft:overworld",
     "mob": "minecraft:pufferfish",
-    "mincount": 20,
+    "mincount": 10,
     "result": "deny"
   },
    {
     "dimension": "minecraft:overworld",
     "mob": "minecraft:phantom",
-    "mincount": 2,
     "result": "deny"
   },
 
