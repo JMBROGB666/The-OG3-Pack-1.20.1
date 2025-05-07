@@ -1,9 +1,16 @@
 Current Mods:
 
-- clientcrafting-1.20.1-1.8.jar
+- [Create: Copycats+](https://modrinth.com/mod/copycats)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Items Displayed](https://modrinth.com/mod/items-displayed-forge)
+- [Mining Speed Tooltips](https://modrinth.com/mod/mining-speed-tooltips)
+- [Savage Ender Dragon](https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon)
+- [CreateBetterFps](https://modrinth.com/mod/createbetterfps)
+- [GuideME](https://modrinth.com/mod/guideme)
+- [Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting)
 - [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api)
 - [Effect Descriptions](https://modrinth.com/mod/effect-descriptions)
-- PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
+- [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
 - [Melody](https://modrinth.com/mod/melody)
 - [Thermal Innovation](https://modrinth.com/mod/thermal-innovation)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
@@ -22,8 +29,8 @@ Current Mods:
 - [Polymorph](https://modrinth.com/mod/polymorph)
 - [ShetiPhianCore](https://modrinth.com/mod/shetiphiancore)
 - [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)
-- create_recycle_1.0.2_forge_1.20.1.jar
-- [[Let's Do] Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm)
+- [Create Recycle Everything](https://www.curseforge.com/minecraft/mc-mods/create-recycle-everything)
+- [Let's Do Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm)
 - [TerraBlenderFix](https://modrinth.com/mod/terrablenderfix)
 - [Quark Oddities](https://modrinth.com/mod/quark-oddities)
 - [Moonlight Lib](https://modrinth.com/mod/moonlight)
@@ -60,7 +67,7 @@ Current Mods:
 - [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge)
 - [TerraBlender](https://modrinth.com/mod/terrablender)
 - [Mekanism Additions](https://modrinth.com/mod/mekanism-additions)
-- Stay_True_1.20.zip
+- [Stay_True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [Better Third Person](https://modrinth.com/mod/better-third-person)
 - [Night Config Fixes](https://modrinth.com/mod/night-config-fixes)
@@ -72,15 +79,14 @@ Current Mods:
 - [Pam's HarvestCraft 2 - Food Extended](https://modrinth.com/mod/pams-harvestcraft-2-food-extended)
 - [FancyMenu](https://modrinth.com/mod/fancymenu)
 - [Thermal Dynamics](https://modrinth.com/mod/thermal-dynamics)
-- lootintegrations_yungs-1.3.jar
-- ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.txt
+- [Yung Structures Addon for Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations)
 - [CrashExploitFixer](https://modrinth.com/mod/crashexploitfixer)
 - [ModernFix](https://modrinth.com/mod/modernfix)
 - [Fzzy Config](https://modrinth.com/mod/fzzy-config)
 - [Enchanting Infuser](https://modrinth.com/mod/enchanting-infuser)
 - [MmmMmmMmmMmm](https://modrinth.com/mod/mmmmmmmmmmmm)
 - [Dynamic Asset Generator](https://modrinth.com/mod/dynamic_asset_generator)
-- refurbished_furniture-forge-1.20.1-1.0.12.jar
+- [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
 - [Visuality: Reforged](https://modrinth.com/mod/visuality-forge)
 - [Easy Magic](https://modrinth.com/mod/easy-magic)
 - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
@@ -94,19 +100,18 @@ Current Mods:
 - [Fast Paintings](https://modrinth.com/mod/fast-paintings)
 - [Cobweb](https://modrinth.com/mod/cobweb)
 - [Shield Expansion](https://modrinth.com/mod/shield-expansion)
-- ComplementaryReimagined_r5.4.zip.txt
 - [Blueprint](https://modrinth.com/mod/blueprint)
 - [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs)
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
 - [Waystones](https://modrinth.com/mod/waystones)
 - [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
 - [Death Backup](https://modrinth.com/mod/death-backup)
-- lootintegrations_dungeoncrawl-1.1.jar
+- l[Loot Integrations: Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/loot-integrations-dungeon-crawl)
 - [Snow Under Trees](https://modrinth.com/mod/snow-under-trees)
 - [Fantasy's Furniture](https://modrinth.com/mod/fantasy-furniture)
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - [Decorative Blocks](https://modrinth.com/mod/decorative-blocks)
-- simpleplanes-1.20.1-5.3.3.jar
+- [Simple Planes](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [Packet Fixer](https://modrinth.com/mod/packet-fixer)
 - [Konkrete](https://modrinth.com/mod/konkrete)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
@@ -118,27 +123,26 @@ Current Mods:
 - [Corpse x Curios API Compat](https://modrinth.com/mod/corpse-x-curios-api-compat)
 - [Thermal Locomotion](https://modrinth.com/mod/thermal-locomotion)
 - [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
-- connectivity-1.20.1-7.1.jar
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 - [JourneyMap](https://modrinth.com/mod/journeymap)
 - [NetherPortalFix](https://modrinth.com/mod/netherportalfix)
 - [Macaw's Trapdoors](https://modrinth.com/mod/macaws-trapdoors)
-- Quark Programmer Art.zip
 - [Epic Knights: Shields Armor and Weapons](https://modrinth.com/mod/epic-knights-shields-armor-and-weapons)
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils)
-- alltheleaks-0.1.3-beta+1.20.1-forge.jar
-- Placebo-1.20.1-8.6.3.jar
+- [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [Just Another Rotten Flesh to Leather Mod](https://modrinth.com/mod/jrftl)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Amendments](https://modrinth.com/mod/amendments)
 - [Platform](https://modrinth.com/mod/platform)
 - [Item Obliterator](https://modrinth.com/mod/item-obliterator)
 - [XP Tome](https://modrinth.com/mod/xp-tome)
-- farsight-1.20.1-3.7.jar
+- [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
 - [Architectury API](https://modrinth.com/mod/architectury-api)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [Necronomicon API](https://modrinth.com/mod/necronomicon)
 - [Macaw's Oh The Biomes You'll Go / We've Gone](https://modrinth.com/mod/macaws-byg-bwg)
-- smoothchunk-1.20.1-4.1.jar
+- [Server Performance - Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 - [Euphoria Patches](https://modrinth.com/mod/euphoria-patches)
 - [Overflowing Bars](https://modrinth.com/mod/overflowing-bars)
 - [Create Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions)
@@ -148,8 +152,8 @@ Current Mods:
 - [Curios API](https://modrinth.com/mod/curios)
 - [Vertical Slabs Compat](https://modrinth.com/mod/vertical-slabs-compat)
 - [Cultural Delights](https://modrinth.com/mod/cultural-delights)
-- goblintraders-forge-1.20.1-1.9.3.jar
-- Connectible Chains-forge-1.20.1-1.1.1.jar
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
+- [Connectible Chains](https://www.curseforge.com/minecraft/mc-mods/connectible-chains-forge)
 - [Delightful](https://modrinth.com/mod/delightful)
 - [Embeddium](https://modrinth.com/mod/embeddium)
 - [NaNny](https://modrinth.com/mod/nanny)
@@ -171,14 +175,14 @@ Current Mods:
 - [Ding](https://modrinth.com/mod/ding)
 - [iChunUtil](https://modrinth.com/mod/ichunutil)
 - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul)
-- memorysettings-1.20.1-5.9.jar
+- [Memory Settings](https://www.curseforge.com/minecraft/mc-mods/memory-settings)
 - [Quark](https://modrinth.com/mod/quark)
 - [Titanium](https://modrinth.com/mod/titanium)
 - [Excavated Variants](https://modrinth.com/mod/excavated_variants)
 - [Extreme sound muffler](https://modrinth.com/mod/extreme_sound_muffler)
 - [Neruina - Ticking Entity Fixer](https://modrinth.com/mod/neruina)
 - [CorgiLib](https://modrinth.com/mod/corgilib)
-- blueprintfix-forge-1.0.0-1.20.1.jar
+- [Blueprint Texture Issue Fix](https://www.curseforge.com/minecraft/mc-mods/blueprint-texture-issue-fix)
 - [Trash Cans](https://modrinth.com/mod/trash-cans)
 - [Nether Chested](https://modrinth.com/mod/new-nether-chest)
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds)
@@ -193,7 +197,7 @@ Current Mods:
 - [spark](https://modrinth.com/mod/spark)
 - [Searchables](https://modrinth.com/mod/searchables)
 - [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct)
-- FluxNetworks-1.20.1-7.2.1.15.jar
+- [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
 - [Twigs](https://modrinth.com/mod/twigs)
 - [Zeta](https://modrinth.com/mod/zeta)
 - [Mindful Darkness](https://modrinth.com/mod/mindful-darkness)
@@ -208,11 +212,10 @@ Current Mods:
 - [Exposure](https://modrinth.com/mod/exposure)
 - [Rechiseled](https://modrinth.com/mod/rechiseled)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
-- chunksending-1.20.1-2.8.jar
-- SE Vanilla Consistency 1.20.1.zip
+- [Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
 - [RFTools Builder](https://modrinth.com/mod/rftools-builder)
 - [Nullscape](https://modrinth.com/mod/nullscape)
-- protection_pixel-1.1.6-forge-1.20.1.jar
+- [Create: Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations)
 - [Thermal Expansion](https://modrinth.com/mod/thermal-expansion)
 - [Mystical Agradditions](https://modrinth.com/mod/mystical-agradditions)
@@ -234,7 +237,7 @@ Current Mods:
 - [Transparent](https://modrinth.com/mod/transparent)
 - [mutil](https://modrinth.com/mod/mutil)
 - [ZeroCore](https://modrinth.com/mod/zerocore)
-- [[Let's Do] Bakery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-bakery-farmcharm-compat)
+- [Let's Do Bakery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-bakery-farmcharm-compat)
 - [Macaw's Abnormals](https://modrinth.com/mod/macaws-abnormals)
 - [Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus)
 - [Guard Villagers](https://modrinth.com/mod/guard-villagers)
@@ -243,15 +246,15 @@ Current Mods:
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
 - [Geckolib](https://modrinth.com/mod/geckolib)
-- NoBushyLeaves.zip
-- inventoryhud.forge.1.20.1-3.4.26.jar
+- [StayTrue NoBushyLeaves](https://www.curseforge.com/minecraft/mc-addons/staytrue-nobushyleaves)
+- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 - [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
 - [Construction Wand](https://modrinth.com/mod/construction-wand)
 - [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges)
 - [Walkie-Talkie](https://modrinth.com/mod/walkie-talkie)
 - [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures)
 - [Sodium Options Mod Compat](https://modrinth.com/mod/sodium-options-mod-compat)
-- framework-forge-1.20.1-0.7.12.jar
+- [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
 - [Carpeted Stairs & Slabs](https://modrinth.com/mod/carpeted-stairs)
 - [The Pale Hound](https://modrinth.com/mod/pale-hound)
 - [My Server Is Compatible](https://modrinth.com/mod/my-server-is-compatible)
@@ -267,23 +270,23 @@ Current Mods:
 - [Resourceful Config](https://modrinth.com/mod/resourceful-config)
 - [Structory](https://modrinth.com/mod/structory)
 - [Incendium](https://modrinth.com/mod/incendium)
-- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [ETF Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [Starter Kit](https://modrinth.com/mod/starter-kit)
 - [Grass Overhaul](https://modrinth.com/mod/grass-overhaul)
 - [Iris/Oculus & GeckoLib Compat](https://modrinth.com/mod/geckoanimfix)
 - [Patchouli](https://modrinth.com/mod/patchouli)
 - [Paxi](https://modrinth.com/mod/paxi)
-- Orva Alarms V4.0.0 - 1.20.1.jar
+- [Orva Alarms and Sirens](https://www.curseforge.com/minecraft/mc-mods/orva-alarms)
 - [RFTools Power](https://modrinth.com/mod/rftools-power)
 - [EMI Ores](https://modrinth.com/mod/emi-ores)
 - [ManyIdeas Core](https://modrinth.com/mod/manyideas-core)
-- [Not Enough Recipe Book [NERB]](https://modrinth.com/mod/notenoughrecipebook)
+- [Not Enough Recipe Book NERB](https://modrinth.com/mod/notenoughrecipebook)
 - [Additional Lanterns](https://modrinth.com/mod/additional-lanterns)
 - [Fast Item Frames](https://modrinth.com/mod/fast-item-frames)
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/mod/fallingleavesforge)
 - [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides)
 - [Another Furniture](https://modrinth.com/mod/another-furniture)
-- FastFurnace-1.20.1-8.0.2.jar
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [Macaw's Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 - [ManyIdeas Doors](https://modrinth.com/mod/manyideas-doors)
@@ -302,10 +305,10 @@ Current Mods:
 - [Cluttered](https://modrinth.com/mod/cluttered)
 - [MVS - Moog's Voyager Structures](https://modrinth.com/mod/moogs-voyager-structures)
 - [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant)
-- deuf-1.20.1-1.3.jar
+- [DEUF - Duplicate Entity UUID Fix](https://www.curseforge.com/minecraft/mc-mods/deuf-duplicate-entity-uuid-fix/files/4598640)
 - [Model Gap Fix](https://modrinth.com/mod/modelfix)
 - [Polymorphic Energistics](https://modrinth.com/mod/polymorphic-energistics)
-- structureessentials-1.20.1-4.6.jar
+- [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - [Applied Mekanistics](https://modrinth.com/mod/applied-mekanistics)
 - [Terralith](https://modrinth.com/mod/terralith)
 - [Detected setBlock Be Gone](https://modrinth.com/mod/dsbg)
@@ -316,13 +319,13 @@ Current Mods:
 - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture)
-- FastSuite-1.20.1-5.1.0.jar
+- [Fast Suite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
 - [Just Enough Professions (JEP)](https://modrinth.com/mod/just-enough-professions-jep)
-- [[Let's Do] Candlelight - Farm&Charm compat](https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat)
+- [Let's Do Candlelight - Farm&Charm compat](https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat)
 - [Rotten Creatures](https://modrinth.com/mod/rottencreatures)
 - [Jade 🔍](https://modrinth.com/mod/jade)
 - [Explorer's Compass](https://modrinth.com/mod/explorers-compass)
-- Dungeon Crawl-1.20.1-2.3.15.jar
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
 - [Structory: Towers](https://modrinth.com/mod/structory-towers)
 - [Mythic Mounts](https://modrinth.com/mod/mythic-mounts)
@@ -331,21 +334,21 @@ Current Mods:
 - [Immersive Optimization](https://modrinth.com/mod/immersive-optimization)
 - [KleeSlabs](https://modrinth.com/mod/kleeslabs)
 - [Soul Fire'd](https://modrinth.com/mod/soul-fire-d)
-- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)
+- [EMF Entity Model Features](https://modrinth.com/mod/entity-model-features)
 - [Iron Furnaces](https://modrinth.com/mod/iron-furnaces)
 - [Oh The Trees You'll Grow](https://modrinth.com/mod/oh-the-trees-youll-grow)
 - [Biomancy](https://modrinth.com/mod/biomancy)
 - [Hexerei](https://modrinth.com/mod/hexerei)
-- configured-forge-1.20.1-2.2.3.jar
-- cupboard-1.20.1-2.7.jar
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
+- [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
 - [Nuclear Science](https://modrinth.com/mod/nuclear-science)
 - [Iceberg](https://modrinth.com/mod/iceberg)
 - [Additional Enchanted Miner](https://modrinth.com/mod/additional-enchanted-miner)
 - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 - [tetra](https://modrinth.com/mod/tetra)
 - [Mekanism](https://modrinth.com/mod/mekanism)
-- gpumemleakfix-1.20.1-1.8.jar
-- additional_lights-1.20.1-2.1.7.jar
+- [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
+- [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
 - [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
 - [RFTools Storage](https://modrinth.com/mod/rftools-storage)
 - [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations)
@@ -353,8 +356,9 @@ Current Mods:
 - [Just Enough Items](https://modrinth.com/mod/jei)
 - [Macaws Stairs](https://modrinth.com/mod/macaws-stairs)
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)
-- fastasyncworldsave-1.20.1-2.4.jar
-- CoffeeGUI_1.20.1_v1.0 EDIT X Dark Everywhere.zip
+- [Fast Async World Save](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric)
+- [Dark Coffe GUI](https://modrinth.com/resourcepack/dark-coffe-gui)
+- [Dark Everywhere](https://modrinth.com/resourcepack/dark-everywhere)
 - [Modular Force Field Systems](https://modrinth.com/mod/modular-force-field-systems)
 - [Geophilic](https://modrinth.com/mod/geophilic)
 - [Too Fast](https://modrinth.com/mod/too-fast)
@@ -378,12 +382,11 @@ Current Mods:
 - [Sinytra Connector](https://modrinth.com/mod/connector)
 - [Citadel](https://modrinth.com/mod/citadel)
 - [CoroUtil](https://modrinth.com/mod/coroutil)
-- FastWorkbench-1.20.1-8.0.4.jar
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Recipes Library](https://modrinth.com/mod/recipes-library)
 - [Woodworks](https://modrinth.com/mod/woodworks)
 - [playerAnimator](https://modrinth.com/mod/playeranimator)
-- ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.txt
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships)
 - [AI Improvements](https://modrinth.com/mod/ai-improvements)
 - [Corpse](https://modrinth.com/mod/corpse)
@@ -391,7 +394,7 @@ Current Mods:
 - [AddonsLib](https://modrinth.com/mod/addonslib)
 - [2032 World Height](https://modrinth.com/mod/2032-world-height)
 - [Client Tweaks](https://modrinth.com/mod/client-tweaks)
-- lootintegrations-1.20.1-4.3.jar
+- [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)
 - [Bookshelf](https://modrinth.com/mod/bookshelf-lib)
 - [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
 - [Cucumber Library](https://modrinth.com/mod/cucumber)
