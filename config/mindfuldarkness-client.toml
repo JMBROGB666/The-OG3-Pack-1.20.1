@@ -4,7 +4,7 @@ debug_container_types = false
 debug_all_screens = false
 #Exclude certain menus from showing the dark mode switcher. Useful when the box intersects other screen elements.
 menu_blacklist = ["hexerei:*", "corpse:*", "ad_astra:*", "mekanism:*", "mekanismgenerators:*", "tconstruct:*", "immersiveengineering:*", "trashcans:*", "waystones:*", "electrodynamics:*", 
-"nuclearscience:*", "ballistix:*", "modularforcefields:*", "!fluxnetworks:*"]
+"nuclearscience:*", "ballistix:*", "modularforcefields:*", "fluxnetworks:*"]
 #Specifies gui paths and resources to darken.
 #End a path using '*' as a wildcard char to include every file (no nested directories) from that directory.
 #Begin with a namespace or skip namespace to apply to all namespaces.
